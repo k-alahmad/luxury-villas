@@ -2,7 +2,8 @@ export const systemSettings = {
 	darkMode: false,
 	colors: {
 		light: {
-			primary: "#010001",
+			primary: "#414242",
+			// primary: "#4B4D4D",
 			// primary: "#0B0933",
 			secondary: "white",
 			third: "rgba(221, 178, 110, 1)",
